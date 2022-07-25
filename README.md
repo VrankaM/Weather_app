@@ -1,6 +1,6 @@
 # Weather_app
 
-weather app built with node js and express
+weather app built with node js, express and ejs templates
 
 ## Landing page
 
