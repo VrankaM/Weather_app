@@ -1,6 +1,12 @@
-# Weather_app
+# Weather app
 
 weather app built with node js, express and ejs templates
+
+To run the app, clone it and then run
+
+    git clone https://github.com/VrankaM/Weather_app.git
+    cd Weather_app
+    node app.js
 
 ## Landing page
 
