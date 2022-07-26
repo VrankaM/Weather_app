@@ -6,6 +6,8 @@ To run the app, download the zip file and then run
 
     node app.js
 
+This app will run on localhost 3000
+
 ## Landing page
 
 Here you can enter your name
