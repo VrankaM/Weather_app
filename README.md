@@ -2,7 +2,7 @@
 
 weather app built with node js, express and ejs templates
 
-To run the app, download the zip file and then run
+To run the app, download the zip file, go to the folder and then run
 
     node app.js
 
